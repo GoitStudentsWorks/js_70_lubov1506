@@ -1,11 +1,11 @@
 {
-  "name": "js-proj-portfolio",
+  "name": "js_70_lubov1506",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-proj-portfolio/",
+    "build": "vite build --base=/js_70_lubov1506/",
     "preview": "vite preview"
   },
   "devDependencies": {
